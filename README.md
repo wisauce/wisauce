@@ -5,7 +5,7 @@ The name's **Wisa**. I'm an Information Systems and Technology student at Instit
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Python` `JavaScript` `TypeScript` `Java` `C++` `Go`
+`Go` `Python` `TypeScript` `Java` `C`
 
 ---
 
