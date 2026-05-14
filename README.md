@@ -24,23 +24,14 @@ I enjoy working across backend engineering, distributed systems, machine learnin
 
 ## 🚀 Featured Projects
 
-### 🔹 [PAKTA](https://github.com/faawibowo/PAKTA)
+### 🔹 [PAKTA (3rd Place Ifest Hackathon)](https://github.com/faawibowo/PAKTA)
 
 AI-powered contract drafting and validation platform developed for PT Pelabuhan Indonesia.
 
-* Built retrieval-augmented generation (RAG) workflows for contract assistance
-* Implemented rule-based validation to detect missing mandatory clauses
-* 🏆 3rd Place — IFest Hackathon
-
 ---
 
-### 🔹 [Ganesha Exhibition Program](https://github.com/](https://github.com/wisauce/GEP-Interactive-App)
-
+### 🔹 [Ganesha Exhibition Program](https://github.com/wisauce/GEP-Interactive-App)
 Interactive exhibition platform designed to increase event immersiveness for 250+ participants.
-
-* Built serverless Redis-backed real-time voting infrastructure
-* Led cross-functional engineering and product development
-* Developed full-stack interaction systems using React and Next.js
 
 ---
 
@@ -54,23 +45,15 @@ Distributed cloud-based file archiving and user management platform.
 
 ---
 
-### 🔹 [IABISA](https://github.com/dasarpemrograman/iabisa)
+### 🔹 [IABISA (BPJS Healthkathon Semifinalist](https://github.com/dasarpemrograman/iabisa)
 
-AI-assisted analytics platform for BPJS Kesehatan.
-
-* Developed multi-agent workflows that convert natural language into SQL queries
-* Implemented ML-based forecasting pipelines for predictive analytics
-* Built interactive dashboard interfaces with React
+no-code data visualization and prediction generator platform for BPJS Kesehatan.
 
 ---
 
 ### 🔹 [Spakbor Hills](https://github.com/wisauce/Spakbor-Hills)
 
 Top-down farming simulation game inspired by Stardew Valley.
-
-* Engineered custom 2D game systems in Java
-* Implemented inventory, farming, NPC, and collision systems
-* Applied MVC architecture for scalable gameplay logic
 
 ---
 
