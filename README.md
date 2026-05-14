@@ -39,10 +39,6 @@ Interactive exhibition platform designed to increase event immersiveness for 250
 
 Distributed cloud-based file archiving and user management platform.
 
-* Developed RBAC-secured backend services with Spring Boot and MySQL
-* Containerized and deployed the system on Linux using Docker and Nginx
-* Implemented secure authentication and file management workflows
-
 ---
 
 ### 🔹 [IABISA (BPJS Healthkathon Semifinalist](https://github.com/dasarpemrograman/iabisa)
